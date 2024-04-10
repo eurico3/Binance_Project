@@ -1,2 +1,5 @@
-# Binance_Stream_to_sql
-Create DB from Binance Streaming
+# Binance_Project
+
+Extract Spot Pairs from Binance
+Extract Future Pairs from Biance
+
